@@ -6,7 +6,7 @@ This Terraform project creates 2 region infrastructure in AWS with modules for m
 
 ### Network
 
-The Network module is responsible for creating the VPC, subnets, route tables, and network ACLs in each region.
+The Network module is responsible for creating the VPC, subnets, route tables, Nat gateway, internet gateway, and network ACLs in each region.
 
 ### EC2 Instance
 
